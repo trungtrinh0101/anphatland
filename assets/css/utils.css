@@ -1,0 +1,27 @@
+.border-radius-0 {
+    border-radius: unset;
+}
+
+.border-radius-1 {
+    border-radius: 2px;
+}
+
+.border-radius-2 {
+    border-radius: 4px;
+}
+
+.border-radius-3 {
+    border-radius: 6px;
+}
+
+.border-radius-5 {
+    border-radius: 10px;
+}
+
+.border-radius-6 {
+    border-radius: 12px;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #BDBDBD;
+}
